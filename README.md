@@ -27,3 +27,5 @@ These notes are for educational purposes only. Do not use them for any illegal a
 
 ---
 **Connect with me:** [GitHub Profile](https://github.com/usmanfarazz)
+## 📌 Status
+These notes are actively updated as I learn.
