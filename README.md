@@ -12,6 +12,11 @@ I will document tools, commands, and techniques as I learn them.
 - **Python for Automation** - Scripts for security tasks
 - **HackTheBox Writeups** - Machine solutions and walkthroughs
 
+## 🗂️ Notes
+| Note | What it covers |
+|---|---|
+| [Kali Linux on WSL (Windows on ARM)](kali-wsl-arm.md) | Installing Kali in WSL on an ARM64 laptop, `kali-linux-headless`, setup prompts, verifying tools, ARM limitations |
+
 ## 🛠️ Tools I Use
 - Kali Linux
 - Nmap
@@ -25,7 +30,8 @@ To become a skilled Red Teamer by 2026 and complete industry certifications.
 ## 📌 Disclaimer
 These notes are for educational purposes only. Do not use them for any illegal activities.
 
----
-**Connect with me:** [GitHub Profile](https://github.com/usmanfarazz)
 ## 📌 Status
 These notes are actively updated as I learn.
+
+---
+**Connect with me:** [GitHub](https://github.com/usmanfarazz) · [LinkedIn](https://www.linkedin.com/in/usman-farazz/) · [TryHackMe](https://tryhackme.com/p/XSSUsman)
